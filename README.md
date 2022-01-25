@@ -1,5 +1,5 @@
 
-# EDB assignment
+# Pet store assignment
 
 ## Boilerplate includes Dashboard, Pet Input, Pet Table, Dynamic Forms with Validation and error controls.
 
